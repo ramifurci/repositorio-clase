@@ -1,3 +1,4 @@
+// mi nombre es ramiro
 class Departamento{
   nombre: string
   constructor(nombre){
